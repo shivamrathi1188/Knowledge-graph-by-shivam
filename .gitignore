@@ -1,0 +1,6 @@
+# Secrets and local environment only. results/*.csv is deliberately NOT ignored.
+.env
+.venv/
+__pycache__/
+*.pyc
+Neo4j-*.txt
